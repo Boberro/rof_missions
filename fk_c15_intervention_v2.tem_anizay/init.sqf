@@ -1,0 +1,1 @@
+spawn_additional_enemies = ((count playableUnits) >= 12);
